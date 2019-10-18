@@ -5,7 +5,7 @@ A multithread capable website crawler that utilizes random word generator and go
 
 ## Usage
 rand_crawl.py 1 2 3
-- 1: Number of threads to create (for best performance, 1 less than the number of threads - available on the system)
+- 1: Number of threads to create (for best performance, 1 less than the number of threads available on the system)
 - 2: Number of searches to perform
 - 3: Number of top hits to visit from the result of the random google search
 
